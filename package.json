@@ -1,0 +1,23 @@
+{
+  "name": "visualchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikr0ks/visualchat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikr0ks/visualchat/issues"
+  },
+  "homepage": "https://github.com/Nikr0ks/visualchat#readme"
+}
